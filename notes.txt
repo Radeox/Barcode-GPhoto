@@ -1,0 +1,6 @@
+# On new barcode
+# 1. Capture image with gphoto (RAW + JPEG)
+# 2. Transfer image to local machine
+# 3. Rename with barcode as prefix
+# 4. Open preview of the JPEG
+# 5. Save barcode to a list (must be unique)
