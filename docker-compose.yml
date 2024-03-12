@@ -7,4 +7,5 @@ services:
       context: .
     volumes:
       - .:/app
+      - /dev/bus/usb:/dev/bus/usb
     command: python main.py
