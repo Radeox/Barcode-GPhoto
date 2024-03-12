@@ -11,3 +11,7 @@ The photos are prefixed with the text from the barcode.
 3. Rename with barcode as prefix.
 4. Open the preview of the JPEG.
 5. Save barcode to a list (must be unique) for later use.
+
+## Docker usage
+
+`docker compose run --rm barcode-gphoto python main.py`
